@@ -1,0 +1,547 @@
+{
+  "video": "btmux-app-macbook-pro.MOV",
+  "label": "btmux-app",
+  "settings": {
+    "video": "btmux-app-macbook-pro.MOV",
+    "crop": "0,340,1080,100",
+    "range": "150:3100",
+    "label": "btmux-app",
+    "out": "out",
+    "slowdown": 8,
+    "click_ratio": 2.5,
+    "pixel_threshold": 40,
+    "threshold": 8,
+    "onset_fraction": 0.15,
+    "min_peak": 30,
+    "min_gap": 40,
+    "min_frames": 1,
+    "max_frames": 32,
+    "override": null,
+    "skip": null
+  },
+  "crop": [
+    0,
+    340,
+    1080,
+    100
+  ],
+  "range": [
+    150,
+    3100
+  ],
+  "frames": 3204,
+  "frame_ms": 4.166624999999868,
+  "summary": {
+    "n": 23,
+    "mean": 65.5,
+    "median": 64.4,
+    "sd": 4.9,
+    "min": 59.4,
+    "max": 81.4
+  },
+  "events": [
+    {
+      "click": 181,
+      "loudness": 52.7,
+      "onset": 180.74,
+      "onset_time": 6.024583,
+      "text_frame": 195,
+      "text_time": 6.5,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 59.4,
+      "residuals": {
+        "182": 9,
+        "183": 24,
+        "184": 3,
+        "189": 2,
+        "190": 1,
+        "192": 1,
+        "193": 2,
+        "194": 3,
+        "195": 554,
+        "196": 1279,
+        "197": 35,
+        "198": 1,
+        "200": 1,
+        "201": 2
+      }
+    },
+    {
+      "click": 306,
+      "loudness": 54.8,
+      "onset": 306.12,
+      "onset_time": 10.204,
+      "text_frame": 322,
+      "text_time": 10.733333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 66.2,
+      "residuals": {
+        "311": 1,
+        "314": 1,
+        "315": 1,
+        "322": 1349,
+        "323": 636,
+        "324": 8
+      }
+    },
+    {
+      "click": 426,
+      "loudness": 52.7,
+      "onset": 426.36,
+      "onset_time": 14.211875,
+      "text_frame": 442,
+      "text_time": 14.733333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 65.2,
+      "residuals": {
+        "442": 1650,
+        "443": 285
+      }
+    },
+    {
+      "click": 547,
+      "loudness": 71.4,
+      "onset": 547.0,
+      "onset_time": 18.233354,
+      "text_frame": 562,
+      "text_time": 18.733333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 62.5,
+      "residuals": {
+        "553": 16,
+        "562": 2501,
+        "563": 206,
+        "577": 2
+      }
+    },
+    {
+      "click": 644,
+      "loudness": 3.5,
+      "onset": 641.18,
+      "onset_time": 21.372687,
+      "text_frame": null,
+      "text_time": null,
+      "override": false,
+      "skipped": false,
+      "latency_ms": null,
+      "residuals": {
+        "653": 16,
+        "655": 1,
+        "657": 13,
+        "658": 17,
+        "659": 1
+      }
+    },
+    {
+      "click": 720,
+      "loudness": 59.9,
+      "onset": 720.29,
+      "onset_time": 24.009771,
+      "text_frame": 735,
+      "text_time": 24.5,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 61.3,
+      "residuals": {
+        "722": 1,
+        "723": 3,
+        "724": 2,
+        "726": 1,
+        "735": 673,
+        "736": 2420,
+        "737": 75
+      }
+    },
+    {
+      "click": 858,
+      "loudness": 44.8,
+      "onset": 857.87,
+      "onset_time": 28.595604,
+      "text_frame": 876,
+      "text_time": 29.2,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 75.5,
+      "residuals": {
+        "862": 1,
+        "863": 3,
+        "864": 1,
+        "868": 2,
+        "869": 3,
+        "876": 1367,
+        "877": 811,
+        "878": 7,
+        "884": 1,
+        "886": 1
+      }
+    },
+    {
+      "click": 990,
+      "loudness": 66.9,
+      "onset": 989.66,
+      "onset_time": 32.988604,
+      "text_frame": 1006,
+      "text_time": 33.533333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 68.1,
+      "residuals": {
+        "998": 5,
+        "999": 1,
+        "1000": 1,
+        "1006": 2051,
+        "1007": 383,
+        "1010": 7,
+        "1021": 1
+      }
+    },
+    {
+      "click": 1116,
+      "loudness": 36.9,
+      "onset": 1116.47,
+      "onset_time": 37.215771,
+      "text_frame": 1132,
+      "text_time": 37.733333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 64.7,
+      "residuals": {
+        "1124": 6,
+        "1129": 1,
+        "1131": 81,
+        "1132": 3344,
+        "1133": 235,
+        "1146": 1
+      }
+    },
+    {
+      "click": 1241,
+      "loudness": 48.1,
+      "onset": 1240.36,
+      "onset_time": 41.345396,
+      "text_frame": 1256,
+      "text_time": 41.866667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 65.2,
+      "residuals": {
+        "1249": 4,
+        "1253": 1,
+        "1256": 785,
+        "1257": 2896,
+        "1258": 21,
+        "1259": 2
+      }
+    },
+    {
+      "click": 1362,
+      "loudness": 64.9,
+      "onset": 1361.34,
+      "onset_time": 45.378167,
+      "text_frame": 1376,
+      "text_time": 45.866667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 61.1,
+      "residuals": {
+        "1369": 2,
+        "1370": 5,
+        "1373": 2,
+        "1376": 1497,
+        "1377": 1709,
+        "1378": 1
+      }
+    },
+    {
+      "click": 1481,
+      "loudness": 66.5,
+      "onset": 1481.29,
+      "onset_time": 49.376208,
+      "text_frame": 1496,
+      "text_time": 49.866667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 61.3,
+      "residuals": {
+        "1496": 2728,
+        "1497": 715,
+        "1500": 1
+      }
+    },
+    {
+      "click": 1603,
+      "loudness": 62.4,
+      "onset": 1602.84,
+      "onset_time": 53.42802,
+      "text_frame": 1618,
+      "text_time": 53.933333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 63.2,
+      "residuals": {
+        "1617": 31,
+        "1618": 3519,
+        "1619": 436
+      }
+    },
+    {
+      "click": 1719,
+      "loudness": 66.9,
+      "onset": 1719.46,
+      "onset_time": 57.315334,
+      "text_frame": 1739,
+      "text_time": 57.966667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 81.4,
+      "residuals": {
+        "1738": 505,
+        "1739": 3452,
+        "1740": 136
+      }
+    },
+    {
+      "click": 1852,
+      "loudness": 93.0,
+      "onset": 1850.86,
+      "onset_time": 61.695271,
+      "text_frame": 1866,
+      "text_time": 62.2,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 63.1,
+      "residuals": {
+        "1856": 2,
+        "1857": 1,
+        "1859": 1,
+        "1860": 3,
+        "1866": 1565,
+        "1867": 2703,
+        "1868": 12,
+        "1874": 1,
+        "1875": 1,
+        "1876": 1,
+        "1881": 1
+      }
+    },
+    {
+      "click": 1981,
+      "loudness": 117.6,
+      "onset": 1980.55,
+      "onset_time": 66.018459,
+      "text_frame": 1996,
+      "text_time": 66.533333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 64.4,
+      "residuals": {
+        "1984": 1,
+        "1985": 4,
+        "1986": 3,
+        "1989": 1,
+        "1996": 3502,
+        "1997": 635,
+        "1998": 16,
+        "2002": 6,
+        "2003": 12,
+        "2004": 1,
+        "2005": 2,
+        "2006": 7,
+        "2007": 10
+      }
+    },
+    {
+      "click": 2101,
+      "loudness": 61.4,
+      "onset": 2100.0,
+      "onset_time": 69.999896,
+      "text_frame": 2116,
+      "text_time": 70.533333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 66.7,
+      "residuals": {
+        "2104": 6,
+        "2108": 2,
+        "2115": 28,
+        "2116": 3610,
+        "2117": 353,
+        "2120": 1,
+        "2121": 1,
+        "2122": 2,
+        "2125": 2,
+        "2126": 1,
+        "2130": 3,
+        "2131": 1
+      }
+    },
+    {
+      "click": 2239,
+      "loudness": 84.9,
+      "onset": 2239.2,
+      "onset_time": 74.639958,
+      "text_frame": 2254,
+      "text_time": 75.133333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 61.7,
+      "residuals": {
+        "2244": 1,
+        "2254": 912,
+        "2255": 3579,
+        "2256": 24,
+        "2265": 2,
+        "2266": 1,
+        "2268": 1
+      }
+    },
+    {
+      "click": 2364,
+      "loudness": 44.1,
+      "onset": 2363.46,
+      "onset_time": 78.782021,
+      "text_frame": 2380,
+      "text_time": 79.333333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 68.9,
+      "residuals": {
+        "2380": 1659,
+        "2381": 3023,
+        "2382": 2,
+        "2390": 1
+      }
+    },
+    {
+      "click": 2488,
+      "loudness": 42.1,
+      "onset": 2488.06,
+      "onset_time": 82.935209,
+      "text_frame": 2504,
+      "text_time": 83.466667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 66.4,
+      "residuals": {
+        "2504": 3554,
+        "2505": 905,
+        "2512": 2,
+        "2514": 3,
+        "2515": 1
+      }
+    },
+    {
+      "click": 2620,
+      "loudness": 53.5,
+      "onset": 2620.68,
+      "onset_time": 87.355937,
+      "text_frame": 2636,
+      "text_time": 87.866667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 63.8,
+      "residuals": {
+        "2624": 1,
+        "2625": 8,
+        "2626": 1,
+        "2627": 3,
+        "2628": 10,
+        "2629": 2,
+        "2632": 3,
+        "2635": 117,
+        "2636": 3692,
+        "2637": 387,
+        "2640": 1,
+        "2641": 1,
+        "2642": 2,
+        "2643": 5,
+        "2644": 2,
+        "2645": 17,
+        "2646": 7,
+        "2647": 31,
+        "2648": 1,
+        "2649": 1,
+        "2650": 1,
+        "2651": 1,
+        "2652": 1
+      }
+    },
+    {
+      "click": 2750,
+      "loudness": 28.4,
+      "onset": 2748.78,
+      "onset_time": 91.626125,
+      "text_frame": 2764,
+      "text_time": 92.133333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 63.4,
+      "residuals": {
+        "2753": 4,
+        "2754": 5,
+        "2755": 4,
+        "2757": 3,
+        "2758": 1,
+        "2763": 2,
+        "2764": 1079,
+        "2765": 3646,
+        "2766": 103,
+        "2771": 1,
+        "2772": 10,
+        "2773": 3,
+        "2774": 3,
+        "2775": 17,
+        "2776": 13,
+        "2777": 6
+      }
+    },
+    {
+      "click": 2875,
+      "loudness": 55.6,
+      "onset": 2874.77,
+      "onset_time": 95.8255,
+      "text_frame": 2890,
+      "text_time": 96.333333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 63.5,
+      "residuals": {
+        "2876": 2,
+        "2877": 3,
+        "2883": 4,
+        "2888": 2,
+        "2890": 1712,
+        "2891": 2022,
+        "2892": 8,
+        "2897": 2,
+        "2900": 3,
+        "2901": 8
+      }
+    },
+    {
+      "click": 3017,
+      "loudness": 61.4,
+      "onset": 3017.34,
+      "onset_time": 100.577916,
+      "text_frame": 3034,
+      "text_time": 101.133333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 69.4,
+      "residuals": {
+        "3019": 1,
+        "3023": 1,
+        "3033": 3,
+        "3034": 3666,
+        "3035": 524,
+        "3036": 2,
+        "3038": 1,
+        "3041": 3
+      }
+    }
+  ]
+}

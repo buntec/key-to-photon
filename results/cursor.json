@@ -1,0 +1,343 @@
+{
+  "video": "cursor-macbook-pro.MOV",
+  "label": "cursor",
+  "settings": {
+    "video": "cursor-macbook-pro.MOV",
+    "crop": "0,440,1080,75",
+    "range": "150:2400",
+    "label": "cursor",
+    "out": "out",
+    "slowdown": 8,
+    "click_ratio": 2.5,
+    "pixel_threshold": 40,
+    "threshold": 8,
+    "onset_fraction": 0.15,
+    "min_peak": 30,
+    "min_gap": 40,
+    "min_frames": 1,
+    "max_frames": 32,
+    "override": null,
+    "skip": null
+  },
+  "crop": [
+    0,
+    440,
+    1080,
+    75
+  ],
+  "range": [
+    150,
+    2400
+  ],
+  "frames": 2527,
+  "frame_ms": 4.166624999999979,
+  "summary": {
+    "n": 18,
+    "mean": 71.0,
+    "median": 71.8,
+    "sd": 4.3,
+    "min": 64.1,
+    "max": 77.7
+  },
+  "events": [
+    {
+      "click": 199,
+      "loudness": 86.0,
+      "onset": 199.3,
+      "onset_time": 6.643188,
+      "text_frame": 217,
+      "text_time": 7.233333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 73.8,
+      "residuals": {
+        "203": 7,
+        "204": 11,
+        "205": 6,
+        "214": 3,
+        "217": 474,
+        "218": 31
+      }
+    },
+    {
+      "click": 323,
+      "loudness": 80.3,
+      "onset": 323.33,
+      "onset_time": 10.777563,
+      "text_frame": 339,
+      "text_time": 11.3,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 65.3,
+      "residuals": {
+        "327": 8,
+        "328": 4,
+        "329": 3,
+        "338": 5,
+        "339": 723,
+        "340": 2
+      }
+    },
+    {
+      "click": 434,
+      "loudness": 146.1,
+      "onset": 434.26,
+      "onset_time": 14.475458,
+      "text_frame": 450,
+      "text_time": 15.0,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 65.6,
+      "residuals": {
+        "450": 176,
+        "451": 815
+      }
+    },
+    {
+      "click": 554,
+      "loudness": 97.3,
+      "onset": 554.61,
+      "onset_time": 18.487063,
+      "text_frame": 570,
+      "text_time": 19.0,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 64.1,
+      "residuals": {
+        "568": 1,
+        "570": 423,
+        "571": 275
+      }
+    },
+    {
+      "click": 663,
+      "loudness": 115.0,
+      "onset": 663.26,
+      "onset_time": 22.108709,
+      "text_frame": 681,
+      "text_time": 22.7,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 73.9,
+      "residuals": {
+        "681": 498,
+        "682": 125
+      }
+    },
+    {
+      "click": 782,
+      "loudness": 101.1,
+      "onset": 782.35,
+      "onset_time": 26.078271,
+      "text_frame": 801,
+      "text_time": 26.7,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 77.7,
+      "residuals": {
+        "785": 2,
+        "792": 3,
+        "801": 893,
+        "802": 34,
+        "803": 6
+      }
+    },
+    {
+      "click": 906,
+      "loudness": 99.7,
+      "onset": 906.76,
+      "onset_time": 30.225375,
+      "text_frame": 925,
+      "text_time": 30.833333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 76.0,
+      "residuals": {
+        "921": 1,
+        "924": 117,
+        "925": 1308,
+        "926": 14
+      }
+    },
+    {
+      "click": 1028,
+      "loudness": 205.0,
+      "onset": 1027.84,
+      "onset_time": 34.261396,
+      "text_frame": 1046,
+      "text_time": 34.866667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 75.7,
+      "residuals": {
+        "1046": 471,
+        "1047": 908,
+        "1048": 1,
+        "1049": 1
+      }
+    },
+    {
+      "click": 1161,
+      "loudness": 153.5,
+      "onset": 1160.73,
+      "onset_time": 38.691146,
+      "text_frame": 1179,
+      "text_time": 39.3,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 76.1,
+      "residuals": {
+        "1179": 548,
+        "1180": 256,
+        "1181": 4
+      }
+    },
+    {
+      "click": 1292,
+      "loudness": 207.7,
+      "onset": 1291.72,
+      "onset_time": 43.057313,
+      "text_frame": 1309,
+      "text_time": 43.633333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 72.0,
+      "residuals": {
+        "1308": 1,
+        "1309": 1392,
+        "1310": 87,
+        "1311": 3
+      }
+    },
+    {
+      "click": 1419,
+      "loudness": 140.3,
+      "onset": 1419.13,
+      "onset_time": 47.304291,
+      "text_frame": 1436,
+      "text_time": 47.866667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 70.3,
+      "residuals": {
+        "1436": 265,
+        "1437": 1240,
+        "1438": 41,
+        "1439": 2
+      }
+    },
+    {
+      "click": 1550,
+      "loudness": 182.3,
+      "onset": 1550.55,
+      "onset_time": 51.685042,
+      "text_frame": 1566,
+      "text_time": 52.2,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 64.4,
+      "residuals": {
+        "1562": 1,
+        "1566": 528,
+        "1567": 959,
+        "1568": 28
+      }
+    },
+    {
+      "click": 1681,
+      "loudness": 109.6,
+      "onset": 1681.8,
+      "onset_time": 56.060041,
+      "text_frame": 1699,
+      "text_time": 56.633333,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 71.7,
+      "residuals": {
+        "1699": 742,
+        "1700": 378,
+        "1701": 2,
+        "1702": 1
+      }
+    },
+    {
+      "click": 1811,
+      "loudness": 101.9,
+      "onset": 1810.37,
+      "onset_time": 60.345625,
+      "text_frame": 1827,
+      "text_time": 60.9,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 69.3,
+      "residuals": {
+        "1826": 9,
+        "1827": 1522,
+        "1828": 203
+      }
+    },
+    {
+      "click": 1941,
+      "loudness": 96.5,
+      "onset": 1941.41,
+      "onset_time": 64.713625,
+      "text_frame": 1958,
+      "text_time": 65.266667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 69.1,
+      "residuals": {
+        "1958": 519,
+        "1959": 1401,
+        "1960": 140
+      }
+    },
+    {
+      "click": 2069,
+      "loudness": 114.2,
+      "onset": 2069.76,
+      "onset_time": 68.991937,
+      "text_frame": 2087,
+      "text_time": 69.566667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 71.8,
+      "residuals": {
+        "2087": 559,
+        "2088": 1345,
+        "2089": 44
+      }
+    },
+    {
+      "click": 2205,
+      "loudness": 103.1,
+      "onset": 2205.28,
+      "onset_time": 73.509396,
+      "text_frame": 2223,
+      "text_time": 74.1,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 73.8,
+      "residuals": {
+        "2223": 1477,
+        "2224": 825
+      }
+    },
+    {
+      "click": 2340,
+      "loudness": 102.9,
+      "onset": 2340.68,
+      "onset_time": 78.022604,
+      "text_frame": 2357,
+      "text_time": 78.566667,
+      "override": false,
+      "skipped": false,
+      "latency_ms": 68.0,
+      "residuals": {
+        "2356": 212,
+        "2357": 1526,
+        "2358": 494
+      }
+    }
+  ]
+}
